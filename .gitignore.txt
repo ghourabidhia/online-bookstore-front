@@ -1,0 +1,54 @@
+
+#####################################################
+# Operating System
+#####################################################
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#####################################################
+# IDEs
+#####################################################
+
+.idea/
+.vscode/
+*.iml
+
+.project
+.classpath
+.settings/
+
+.factorypath
+
+#####################################################
+# Logs
+#####################################################
+
+*.log
+logs/
+
+#####################################################
+# React Frontend
+#####################################################
+
+# Dependencies
+online-bookstore-front/node_modules/
+
+# Build outputs
+online-bookstore-front/build/
+online-bookstore-front/dist/
+
+# Coverage
+online-bookstore-front/coverage/
+
+# Cache
+online-bookstore-front/.cache/
+online-bookstore-front/.eslintcache
+
+# Environment files
+online-bookstore-front/.env
+online-bookstore-front/.env.local
+online-bookstore-front/.env.development.local
+online-bookstore-front/.env.test.local
+online-bookstore-front/.env.production.local
